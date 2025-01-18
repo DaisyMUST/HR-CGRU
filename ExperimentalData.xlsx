@@ -1,1 +1,1 @@
-git rm ExperimentalData.xlsx
+git rm -m 'ExperimentalData.xlsx'
